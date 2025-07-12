@@ -3,8 +3,8 @@ import React from 'react'
 
 const userScreen = () => {
   return (
-    <View>
-      <Text>userScreen</Text>
+    <View >
+      <Text>userScreen</Text> 
     </View>
   )
 }
